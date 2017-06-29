@@ -1,0 +1,14 @@
+[
+{
+    "request":
+    {
+   	"method": "GET",
+        "uri": "/maps/api/directions/lotto"
+    },
+    "response":
+    {
+          "status": "200",
+	  "file": "get.response"
+    }
+}
+]

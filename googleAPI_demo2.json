@@ -1,0 +1,20 @@
+[
+{
+    "request":
+    {
+   	"method": "GET",
+        "uri": "/maps/api/directions/json",
+        "queries":
+           {
+              "origin": "Spark",
+	      "destination": "Albany",
+              "departure_time": "now"
+            }
+    },
+    "response":
+    {
+          "status": "200",
+	  "file": "googleAPI_demo2.response"
+    }
+}
+]

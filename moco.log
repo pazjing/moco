@@ -1,0 +1,794 @@
+12 Jun 2017 12:17:46 [main] INFO  Server is started at 8091
+12 Jun 2017 12:17:46 [main] INFO  Shutdown port is 56035
+12 Jun 2017 12:18:00 [nioEventLoopGroup-3-3] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:00 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:00 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:00 [nioEventLoopGroup-3-3] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:00 [nioEventLoopGroup-3-4] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:00 [nioEventLoopGroup-3-4] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:16 [nioEventLoopGroup-3-5] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:16 [nioEventLoopGroup-3-5] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:16 [nioEventLoopGroup-3-6] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:16 [nioEventLoopGroup-3-6] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:16 [nioEventLoopGroup-3-7] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:16 [nioEventLoopGroup-3-7] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:52 [nioEventLoopGroup-3-1] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:52 [nioEventLoopGroup-3-8] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:52 [nioEventLoopGroup-3-1] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:52 [nioEventLoopGroup-3-8] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:18:52 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:18:52 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:19:41 [main] INFO  Server is started at 8091
+12 Jun 2017 12:19:41 [main] INFO  Shutdown port is 56054
+12 Jun 2017 12:19:57 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:19:57 [nioEventLoopGroup-3-3] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:19:57 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:19:57 [nioEventLoopGroup-3-3] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:12 [nioEventLoopGroup-3-4] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:20:12 [nioEventLoopGroup-3-5] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:20:12 [nioEventLoopGroup-3-4] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:12 [nioEventLoopGroup-3-5] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:12 [nioEventLoopGroup-3-6] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:20:12 [nioEventLoopGroup-3-6] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:38 [nioEventLoopGroup-3-8] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:20:38 [nioEventLoopGroup-3-8] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:38 [nioEventLoopGroup-3-7] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:20:38 [nioEventLoopGroup-3-7] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:38 [nioEventLoopGroup-3-1] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 12:20:38 [nioEventLoopGroup-3-1] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 12:20:50 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /maps/api/directions/json HTTP/1.1
+Host: 127.0.0.1:8091
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Content-Length: 0
+
+12 Jun 2017 12:20:50 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 756
+Content-Type: text/plain; charset=utf-8
+
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 0,
+               "lng" : 0
+            },
+            "southwest" : {
+               "lat" : 0,
+               "lng" : 0
+            }
+         },
+         "legs" : [
+            {
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 177
+               },
+               "duration_in_traffic" : {
+                  "text" : "3 mins",
+                  "value" : 198
+               }
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "f{uhGa{r|_@_FzVoDlQSt@s@`Bi@`AwBbD{@zAIROXIHIb@Ij@Ih@U|@]p@q@bAs@p@uA|@c@Za@^e@r@?LMXITUt@Mz@CVUAmDG"
+         }
+      }
+   ],
+   "status" : "OK"
+}
+
+
+12 Jun 2017 12:20:50 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /favicon.ico HTTP/1.1
+Host: 127.0.0.1:8091
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://127.0.0.1:8091/maps/api/directions/json?origin=-43.53476000%2C172.62529000&destination=-43.52792000%2C172.61229000&key=AIzaSyBfGuH2yKHAAWe1cQnLIZ-hGubUgRhY3OQ
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Content-Length: 0
+
+12 Jun 2017 12:20:50 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 3233
+Content-Type: image/png
+
+<content is binary>
+
+12 Jun 2017 12:31:35 [Thread-1] INFO  combine.json change detected.
+12 Jun 2017 12:31:35 [Thread-1] INFO  Server stopped.
+12 Jun 2017 12:31:35 [Thread-1] INFO  Server is started at 8091
+12 Jun 2017 12:34:49 [main] INFO  Server is started at 8091
+12 Jun 2017 12:34:49 [main] INFO  Shutdown port is 56210
+12 Jun 2017 12:35:39 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /maps/api/directions/json HTTP/1.1
+Host: 127.0.0.1:8091
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Content-Length: 0
+
+12 Jun 2017 12:35:39 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 669
+Content-Type: text/plain; charset=utf-8
+
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 0,
+               "lng" : 0
+            },
+            "southwest" : {
+               "lat" : 0,
+               "lng" : 0
+            }
+         },
+         "legs" : [
+            {
+               "duration" : {
+                  "text" : "1 mins",
+                  "value" : 66
+               },
+               "duration_in_traffic" : {
+                  "text" : "1 mins",
+                  "value" :55 
+               }
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "z}thGqtp|_@kBnA"
+         }
+      }
+   ],
+   "status" : "OK"
+}
+
+
+12 Jun 2017 14:02:18 [nioEventLoopGroup-3-1] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:18 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:18 [nioEventLoopGroup-3-1] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:18 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:18 [nioEventLoopGroup-3-3] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:18 [nioEventLoopGroup-3-3] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:19 [nioEventLoopGroup-3-4] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:19 [nioEventLoopGroup-3-5] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:19 [nioEventLoopGroup-3-4] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:19 [nioEventLoopGroup-3-5] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:19 [nioEventLoopGroup-3-6] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:19 [nioEventLoopGroup-3-6] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-7] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-8] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-7] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-8] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-1] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-1] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-3] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-3] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-4] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:20 [nioEventLoopGroup-3-4] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:21 [nioEventLoopGroup-3-5] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:21 [nioEventLoopGroup-3-5] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:21 [nioEventLoopGroup-3-6] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:21 [nioEventLoopGroup-3-6] INFO  Response return:
+
+HTTP/1.0 400
+
+
+12 Jun 2017 14:02:21 [nioEventLoopGroup-3-7] INFO  Request received:
+
+GET /bad-request HTTP/1.0
+
+
+12 Jun 2017 14:02:21 [nioEventLoopGroup-3-7] INFO  Response return:
+
+HTTP/1.0 400
+
+
+29 Jun 2017 15:04:48 [main] INFO  Server is started at 8091
+29 Jun 2017 15:04:48 [main] INFO  Shutdown port is 50538
+29 Jun 2017 15:05:01 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET / HTTP/1.1
+Host: localhost:8091
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Cookie: Idea-ef645ef6=af42b57e-3e8d-4daf-b855-ef1b430f9778
+Content-Length: 0
+
+29 Jun 2017 15:05:01 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 400
+
+
+29 Jun 2017 15:05:02 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /favicon.ico HTTP/1.1
+Host: localhost:8091
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: image/webp,image/*,*/*;q=0.8
+Referer: http://localhost:8091/
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Cookie: Idea-ef645ef6=af42b57e-3e8d-4daf-b855-ef1b430f9778
+Content-Length: 0
+
+29 Jun 2017 15:05:02 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 3233
+Content-Type: image/png
+
+<content is binary>
+
+29 Jun 2017 15:05:20 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET //maps/api/directions/lotto HTTP/1.1
+Host: localhost:8091
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Cookie: Idea-ef645ef6=af42b57e-3e8d-4daf-b855-ef1b430f9778
+Content-Length: 0
+
+29 Jun 2017 15:05:20 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 400
+
+
+29 Jun 2017 15:05:24 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Host: localhost:8091
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: en-US,en;q=0.8
+Cookie: Idea-ef645ef6=af42b57e-3e8d-4daf-b855-ef1b430f9778
+Content-Length: 0
+
+29 Jun 2017 15:05:24 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 15:13:12 [nioEventLoopGroup-3-7] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: */*
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 15:13:12 [nioEventLoopGroup-3-7] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 15:13:45 [nioEventLoopGroup-3-8] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: */*
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 15:13:45 [nioEventLoopGroup-3-8] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 15:14:13 [nioEventLoopGroup-3-1] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: */*
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.1 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 15:14:13 [nioEventLoopGroup-3-1] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 15:58:35 [nioEventLoopGroup-3-2] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: */*
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 15:58:35 [nioEventLoopGroup-3-2] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 16:14:18 [nioEventLoopGroup-3-3] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: */*
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 16:14:18 [nioEventLoopGroup-3-3] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 16:15:58 [nioEventLoopGroup-3-4] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: */*
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 16:15:58 [nioEventLoopGroup-3-4] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 16:31:09 [nioEventLoopGroup-3-5] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: application/json, application/javascript, text/javascript
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 16:31:09 [nioEventLoopGroup-3-5] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+
+29 Jun 2017 16:31:29 [nioEventLoopGroup-3-6] INFO  Request received:
+
+GET /maps/api/directions/lotto HTTP/1.1
+Accept: application/json, application/javascript, text/javascript
+Content-Length: 0
+Host: localhost:8091
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
+Accept-Encoding: gzip,deflate
+
+29 Jun 2017 16:31:29 [nioEventLoopGroup-3-6] INFO  Response return:
+
+HTTP/1.1 200
+Content-Length: 190
+Content-Type: text/plain; charset=utf-8
+
+{
+"lotto":{
+ "lottoId":5,
+ "winning-numbers":[2,45,34,23,7,5,3],
+ "winners":[{
+   "winnerId":23,
+   "numbers":[2,45,34,23,3,5]
+ },{
+   "winnerId":54,
+   "numbers":[52,3,12,11,18,22]
+ }]
+}
+}
+
+

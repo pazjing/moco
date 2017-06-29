@@ -1,0 +1,22 @@
+{
+   "routes" : [
+      {
+         "legs" : [
+            {
+               "duration" : {
+                  "text" : "48 mins",
+                  "value" : 2893
+               },
+               "duration_in_traffic" : {
+                  "text" : "1 hour 34 mins",
+                  "value" : 5648
+               }
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kvkmElvvnUt@\\^\\d@vAH`]FBn@?R?AyW@aBI}@u@uAkAcAoDaAuCQ}AJgK~BaA\\sA`@u@MUEwCcAkA[iAIaBRm@XwInH}DlD]p@}ApAqBhByJlKcFxFoLbM[XaC|DgBdE}@zC{ApH}CnTsAnFcBrEka@j~@eH|OeB~CaGhK{CvGiGzOiLrY{S~f@aDjGaCrDsEjGaJpMYh@{@rB}@~CqAjG{BhJaCbLkCbIgFfLyGjLmEpIeCtFgNp[wMvYkBnEoFvL]t@YL[`@cDrEk@l@iAViDAo@Tg@FGnAFdE_BpDoDxGoFdNoNx[oOv]wD~Hy@jA{@RmBHu@b@qApBaBnCv@n@b@XtANPh@y@pBSn@A^_AvBgBxDiBzDoGvKgBlEmEtK{Urk@eL~V_K|SoMnX}G|Q{EhLqCpFoElHqEjGuEnFeKbKqDnDwBxBqBtAeDvBqDjEwBlDqElJaE|IgHvKgEtFcCjCqCzBaGpDaTzMsaAzm@g^xTgk@h\\ag@tYyDlCiDfDyErGkIjMeOlUgLhQgRhYmDnDcEnCqDbB_D~@u`@fIiEtAqFnC}KtHoGpEeHzGaTdTkMzMmIbNyEfFeKxJo`@j_@eB|AsCjCcF|C_EpBqDjCoXdWcPdRoCvDeEdIkDtEcHlGgA~@wCpD}@bB_CfGoLv\\}AdFmAzGy@pDcAhCsB`EYh@cAdCuJnYk@zAuCnJ_AzFi@xIArs@OdEw@xG{@dEsDhLsSnn@iBpGBj@q@tCoCvIkMf_@gAbDeB`FkDpIkEjHsBdC{@r@uE~DmAp@uAj@kDv@}CPsGg@aCGcETqBBcCM_Dg@aKw@cLDiGZ_Fv@qFbB}IrDgElBkBpB_AtB[bASpBwAhPsBlXw@~MFnJ_@xC}@rCiF`KqI|OiD~FqCfE{EbGaFfEwMtKgAjA{ArB_NvSuCpFeCdHoIl\\uBjIuClJsEvMyDbMqAhEoDlJ{C|J}FlZyAtH_EbY{C~Vq@rDoBxGaIhReKbYsDvH}FnJoF|IuDlFiDhDwE`D_OvHwCrBcDrDgB~CwGxLkB~CuBlCmBjBkDfCiFpCiPbIsDpC}BpCqAdCw@zBeAdGUvDE~FQnFYxBkAnE}AnDyCvFwNjY{DnHwCrDwAlAiDnByDjAoDv@gLdCqL|BsDlAuExBiFnD{EvEaGjHyGfIcB~AkBlAeB`AgJbIe@d@{@z@mDfDM?iC|B{AnA]NoFjDqBlBkBtCmA`Am@p@[r@UHg@KK?gAs@qCi@{AC"
+         }
+      }
+   ],
+   "status" : "OK"
+}

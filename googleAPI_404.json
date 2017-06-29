@@ -1,0 +1,19 @@
+[
+{
+    "request":
+    {
+   	"method": "GET",
+        "uri": "/maps/api/directions/json",
+        "queries":
+           {
+              "origin": "Disneyland",
+	      "destination": "Legoland",
+              "departure_time": "now"
+            }
+    },
+    "response":
+    {
+         "status": "404"
+    }
+}
+]
